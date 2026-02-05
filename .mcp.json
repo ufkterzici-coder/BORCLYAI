@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "suparank": {
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "suparank"]
+    }
+  }
+}
