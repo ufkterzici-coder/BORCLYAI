@@ -423,6 +423,7 @@ Türkiye'nin en kapsamlı borç takibi ve bütçe yönetimi uygulaması Borcly i
 - [Asgari Ücretle Bütçe Yönetimi: 2026 Rehberi](/asgari-ucretle-butce-yonetimi)
 - [Öğrenci Bütçe Yönetimi: Kapsamlı Kılavuz](/ogrenci-butce-yonetimi)
 - [Borç Takibi Nasıl Yapılır? En Etkili Yöntemler](/borc-takibi-nasil-yapilir)
+- [Kredi Kartı Borcu Nasıl Ödenir? 7 Strateji](/kredi-karti-borcu-nasil-odenir)
 
 ---
 
