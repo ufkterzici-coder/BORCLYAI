@@ -538,6 +538,7 @@ Bu rehberde anlattığımız tüm adımları tek bir uygulamadan yönetebilirsin
 - [Borç Takibi Nasıl Yapılır?](/borc-takibi-nasil-yapilir) — KYK kredisi ve arkadaş borçlarını takip edin
 - [Asgari Ücretle Bütçe Yönetimi Nasıl Yapılır?](/asgari-ucretle-butce-yonetimi) — Mezuniyet sonrası için hazırlık
 - [70-10-20 Bütçe Kuralı](/asgari-ucretle-butce-yonetimi#adım-2-70-10-20-bütçe-kuralı) — Düşük gelirle bütçe yönetimi
+- [En İyi 10 Bütçe Uygulaması](/en-iyi-butce-uygulamasi) — 2026 uygulama karşılaştırması
 
 ---
 

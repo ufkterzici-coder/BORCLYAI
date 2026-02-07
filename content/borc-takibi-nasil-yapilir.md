@@ -513,6 +513,7 @@ Borç takibi, finansal özgürlüğün temelidir. **Takip etmediğiniz borç, ö
 - [Asgari Ücretle Bütçe Yönetimi](/asgari-ucretle-butce-yonetimi) — Düşük gelirle borç yönetimi
 - [Öğrenci Bütçe Yönetimi](/ogrenci-butce-yonetimi) — KYK kredisi yönetimi
 - [70-10-20 Bütçe Kuralı](/asgari-ucretle-butce-yonetimi#adım-2-70-10-20-bütçe-kuralı) — Bütçe oluşturma
+- [En İyi 10 Bütçe Uygulaması](/en-iyi-butce-uygulamasi) — Borcly ve diğer uygulamalar
 
 ---
 
