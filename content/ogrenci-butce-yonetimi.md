@@ -540,6 +540,7 @@ Bu rehberde anlattığımız tüm adımları tek bir uygulamadan yönetebilirsin
 - [70-10-20 Bütçe Kuralı](/asgari-ucretle-butce-yonetimi#adım-2-70-10-20-bütçe-kuralı) — Düşük gelirle bütçe yönetimi
 - [En İyi 10 Bütçe Uygulaması](/en-iyi-butce-uygulamasi) — 2026 uygulama karşılaştırması
 - [Kredi Kartı Borcu Nasıl Ödenir?](/kredi-karti-borcu-nasil-odenir) — 7 etkili strateji
+- [Kar Topu vs Çığ Yöntemi](/kar-topu-vs-cig-yontemi) — Borç ödeme stratejileri
 
 ---
 
