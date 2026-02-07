@@ -550,13 +550,15 @@ Visual elements:
 
 Style:
 - Modern flat design with subtle 3D elements
+- Cute, friendly wallet character similar to Borcly mascot
 - Professional and trustworthy feel
-- Colors: Primary blue (#2563EB), accent green (#10B981), white background
+- Colors: Primary purple (#8B5CF6), mint/turquoise (#5EEAD4), gold coin (#F59E0B), white
+- Purple gradient background (like Borcly app icon)
 - No text overlay (title will be added separately)
 - Suitable for Turkish audience
-- Financial/fintech aesthetic
+- Financial/fintech aesthetic with kawaii touch
 
-Mood: Hopeful, organized, empowering
+Mood: Hopeful, organized, empowering, friendly
 Aspect ratio: 16:9 (1200x630 pixels)
 ```
 

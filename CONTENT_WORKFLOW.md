@@ -260,11 +260,12 @@ brand_guidelines:
   tagline: "Borçlarınızı Takip Edin, Bütçenizi Yönetin"
 
   colors:
-    primary: "#2563EB"      # Mavi (güven)
-    secondary: "#10B981"    # Yeşil (büyüme)
-    accent: "#F59E0B"       # Turuncu (dikkat)
-    dark: "#1F2937"         # Koyu gri
-    light: "#F9FAFB"        # Açık gri
+    primary: "#8B5CF6"      # Mor (ana renk)
+    primary_dark: "#7C3AED" # Koyu mor (gradient)
+    secondary: "#5EEAD4"    # Mint/Turkuaz (büyüme, ok)
+    accent: "#F59E0B"       # Altın/Turuncu (coin, dikkat)
+    white: "#FFFFFF"        # Beyaz (cüzdan karakter, metin)
+    dark: "#1F2937"         # Koyu gri (metin)
 
   fonts:
     heading: "Inter Bold"

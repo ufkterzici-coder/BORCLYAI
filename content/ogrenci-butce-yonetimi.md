@@ -565,13 +565,15 @@ Visual elements:
 - Piggy bank or savings jar
 
 Style:
-- Bright, optimistic colors (blue #2563EB, green #10B981, yellow accents)
+- Borcly brand colors: Primary purple (#8B5CF6), mint/turquoise (#5EEAD4), gold (#F59E0B)
+- Purple gradient background matching Borcly app icon
+- Include cute wallet character similar to Borcly mascot (white wallet with smile)
 - Modern flat illustration with subtle gradients
-- Youthful, energetic feel
+- Youthful, energetic, kawaii-inspired feel
 - Clean, uncluttered composition
 - Suitable for Turkish Gen-Z audience
 
-Mood: Hopeful, empowering, student-friendly
+Mood: Hopeful, empowering, student-friendly, fun
 Aspect ratio: 16:9 (1200x630 pixels)
 ```
 
