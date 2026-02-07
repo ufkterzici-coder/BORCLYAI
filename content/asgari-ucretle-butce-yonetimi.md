@@ -522,6 +522,11 @@ Asgari ücretle bütçe yönetimi zor ama **imkansız değil**. Doğru strateji,
 4. **Takip edin** — Ölçemediğinizi yönetemezsiniz
 5. **Sabırlı olun** — Finansal özgürlük bir maraton, sprint değil
 
+### İlgili Okumalar
+
+- [Borç Takibi Nasıl Yapılır?](/borc-takibi-nasil-yapilir) — Borçlarınızı sistematik olarak yönetin
+- [Öğrenci Bütçe Yönetimi](/ogrenci-butce-yonetimi) — Üniversite öğrencileri için özel rehber
+
 ---
 
 ## Kaynaklar
