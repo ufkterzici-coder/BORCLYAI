@@ -529,6 +529,7 @@ Asgari ücretle bütçe yönetimi zor ama **imkansız değil**. Doğru strateji,
 - [En İyi 10 Bütçe Uygulaması](/en-iyi-butce-uygulamasi) — 2026 karşılaştırma ve inceleme
 - [Kredi Kartı Borcu Nasıl Ödenir?](/kredi-karti-borcu-nasil-odenir) — 7 etkili strateji
 - [Kar Topu vs Çığ Yöntemi](/kar-topu-vs-cig-yontemi) — Borç ödeme stratejileri
+- [Acil Durum Fonu Nasıl Oluşturulur?](/acil-durum-fonu-nasil-olusturulur) — Finansal güvenlik rehberi
 
 ---
 
