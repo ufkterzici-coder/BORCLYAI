@@ -516,6 +516,7 @@ Borç takibi, finansal özgürlüğün temelidir. **Takip etmediğiniz borç, ö
 - [En İyi 10 Bütçe Uygulaması](/en-iyi-butce-uygulamasi) — Borcly ve diğer uygulamalar
 - [Kredi Kartı Borcu Nasıl Ödenir?](/kredi-karti-borcu-nasil-odenir) — 7 etkili strateji
 - [Kar Topu vs Çığ Yöntemi](/kar-topu-vs-cig-yontemi) — Hangi borç ödeme stratejisi?
+- [İhtiyaç Kredisi Hesaplama](/ihtiyac-kredisi-hesaplama) — Kredi hesaplama rehberi
 
 ---
 

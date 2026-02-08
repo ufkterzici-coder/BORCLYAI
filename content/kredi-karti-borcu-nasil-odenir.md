@@ -481,6 +481,7 @@ Kredi kartı borcu ciddi bir finansal yüktür, ama çözümsüz değildir. Bu r
 
 - [Borç Takibi Nasıl Yapılır?](/borc-takibi-nasil-yapilir) — Kapsamlı borç yönetimi rehberi
 - [Kar Topu vs Çığ Yöntemi](/kar-topu-vs-cig-yontemi) — Hangi strateji size uygun?
+- [İhtiyaç Kredisi Hesaplama](/ihtiyac-kredisi-hesaplama) — Kredi hesaplama rehberi
 - [Asgari Ücretle Bütçe Yönetimi](/asgari-ucretle-butce-yonetimi) — 70-10-20 kuralı
 - [Öğrenci Bütçe Yönetimi](/ogrenci-butce-yonetimi) — KYK kredisi takibi
 - [En İyi Bütçe Uygulamaları](/en-iyi-butce-uygulamasi) — Borcly ve alternatifler
